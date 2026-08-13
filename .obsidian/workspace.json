@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "480e21c8d2f7d19d",
+    "type": "split",
+    "children": [
+      {
+        "id": "51f93b0c1eeab60c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aca1bf6f6c8a11e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Spellfire Sorcery - D&D 5e (2024).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Spellfire Sorcery - D&D 5e (2024)"
+            }
+          },
+          {
+            "id": "3dd6818286a0e557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finnic Ashbleeder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Finnic Ashbleeder"
+            }
+          },
+          {
+            "id": "eecdc2388a4ce7aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Mage Republic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Mage Republic"
+            }
+          },
+          {
+            "id": "8d221cbb64959b02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backstory"
+            }
+          },
+          {
+            "id": "de619d6d20dab687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to write a backstory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to write a backstory"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cccf2e22f641569e",
+    "type": "split",
+    "children": [
+      {
+        "id": "edf3e308e77491d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5499fa836491c649",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7bb5d23e02f9a81b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ee6d734838f67d62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51b1a86d735819e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac1a921e0ca05c4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5009bb7b67e53cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Backstory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Backstory"
+            }
+          },
+          {
+            "id": "e18152671382bc51",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Backstory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Backstory"
+            }
+          },
+          {
+            "id": "0f066497b084f412",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "80ec6267d0be8acb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5e684d74ed64b67d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Backstory.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Backstory"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "8d221cbb64959b02",
+  "lastOpenFiles": [
+    "Finnic Ashbleeder.md",
+    "Backstory.md",
+    "The Mage Republic.md",
+    "Spellfire Sorcery - D&D 5e (2024).pdf",
+    "How to write a backstory.md",
+    "Stats.md",
+    "HeroForgeMini.png",
+    "Welcome.md"
+  ]
+}
