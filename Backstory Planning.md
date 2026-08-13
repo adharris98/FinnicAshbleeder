@@ -9,7 +9,9 @@ Stories
 - [x] Relationship to the others in the troupe
 	- See "Relationships"
 - [ ] How/why I became a carnie
+	- Still working on it...
 - [ ] Why are we heading south inland
+	- Our next show is in a town to the south, it's easier for us to travel inland than get back on our ship and sail it down there. We're also hoping that we can do some quick pop-up shows along the way to make some extra cash.
 
 Have a theme that my character struggles with
 - 
