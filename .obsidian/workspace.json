@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory.md",
+                "file": "Backstory Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backstory"
+              "title": "Backstory Planning"
             }
           },
           {
@@ -74,9 +74,43 @@
               "icon": "lucide-file",
               "title": "How to write a backstory"
             }
+          },
+          {
+            "id": "bbe85da526845fc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEHOLD! FINNIC ASHBLEEDER!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BEHOLD! FINNIC ASHBLEEDER!"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "9c3c5cabfe76023b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af5740c2d2f1cc4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "On the Ride Over.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "On the Ride Over"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +130,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -236,14 +272,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d221cbb64959b02",
+  "active": "af5740c2d2f1cc4e",
   "lastOpenFiles": [
-    "Finnic Ashbleeder.md",
-    "Backstory.md",
     "The Mage Republic.md",
+    "On the Ride Over.md",
+    "Backstory Planning.md",
+    "Finnic Ashbleeder.md",
+    "BEHOLD! FINNIC ASHBLEEDER!.md",
     "Spellfire Sorcery - D&D 5e (2024).pdf",
     "How to write a backstory.md",
     "Stats.md",
