@@ -83,3 +83,5 @@ Come see **FINNIC ASHBLEEDER!**
 **THE FLAMES ARE WAITING.**
 
 **ARE YOU?**
+
+**Come see Finnic and more at *The Dawn Spectacular* coming soon to a city near you**

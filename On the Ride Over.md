@@ -1,18 +1,4 @@
 "God! Do you see the type of shit they're pushing out to the people about us these days?!" Finnic says to Ingamar as he hands him one of the new [[BEHOLD! FINNIC ASHBLEEDER!|promotional flyers]] the circus hands out. "Those auto-scribes the {INSERT NAME OF MAGICAL FAMILY HERE} family is putting out really do know exactly what kind of slop makes the people happy, huh?"
 "yyyup..." Ingamar says as he sighs and takes a look at the flyer, "Did they even read this before they sent it out?"
 
-Finnic Ashbleeder and Ingamar Billard are both members of a traveling circus, currently sailing on their way to {INSERT NAME OF DESTINATION HERE}. Finnic is the troupe's fire-breather, and Ingamar is one half of the troupe's trapeze artists. Among the others in the troupe, there is:
-
-- Finnic Ashbleeder, fire-breather (halfling - M)
-- Ingamar Billard, trapeze artist (human - M)
-- Emory Downing, the other trapeze artist (human - F)
-- Thrornala Borinala, bearded lady (dwarf - F)
-- Slikpim Mimaidnyc "Pim", clown (gnome - M)
-- Zaira Beffa, clown (human - F)
-- Carson Fyre, clown/juggler (human - M)
-- Arel Keaven, ringleader (elf - M)
-- Obnus Blellor, strongman (goliath - M)
-- Ulag Dumbuk, strongman (orc - M)
-- Elora Lucyne, magician (elf - F)
-- Umidden Deepbrow, manager (elderly dwarf - M)
-
+Finnic Ashbleeder and Ingamar Billard are both members of a traveling circus, "The Dawn Spectacular", currently sailing on their way to {INSERT NAME OF DESTINATION HERE}. Finnic is the troupe's fire-breather, and Ingamar is one half of the troupe's trapeze artists.

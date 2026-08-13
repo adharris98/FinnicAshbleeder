@@ -1,0 +1,13 @@
+## Members
+- Finnic Ashbleeder, fire-breather (halfling - M)
+- Ingamar Billard, trapeze artist (human - M)
+- Emory Downing, the other trapeze artist (human - F)
+- Thrornala Borinala, bearded lady (dwarf - F)
+- Slikpim Mimaidnyc "Pim", clown (gnome - M)
+- Zaira Beffa, clown (human - F)
+- Carson Fyre, clown/juggler (human - M)
+- Arel Keaven, ringleader (elf - M)
+- Obnus Blellor, strongman (goliath - M)
+- Ulag Dumbuk, strongman (orc - M)
+- Elora Lucyne, magician (elf - F)
+- Umidden Deepbrow, manager (elderly dwarf - M)

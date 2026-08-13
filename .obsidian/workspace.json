@@ -34,20 +34,6 @@
             }
           },
           {
-            "id": "eecdc2388a4ce7aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Mage Republic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Mage Republic"
-            }
-          },
-          {
             "id": "8d221cbb64959b02",
             "type": "leaf",
             "state": {
@@ -62,20 +48,6 @@
             }
           },
           {
-            "id": "de619d6d20dab687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to write a backstory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to write a backstory"
-            }
-          },
-          {
             "id": "bbe85da526845fc9",
             "type": "leaf",
             "state": {
@@ -87,6 +59,20 @@
               },
               "icon": "lucide-file",
               "title": "BEHOLD! FINNIC ASHBLEEDER!"
+            }
+          },
+          {
+            "id": "504b90b196a3d704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Dawn Spectacular.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Dawn Spectacular"
             }
           }
         ],
@@ -108,6 +94,20 @@
               },
               "icon": "lucide-file",
               "title": "On the Ride Over"
+            }
+          },
+          {
+            "id": "b256df2ae814dc34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relationships.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relationships"
             }
           }
         ]
@@ -276,15 +276,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af5740c2d2f1cc4e",
+  "active": "8d221cbb64959b02",
   "lastOpenFiles": [
-    "The Mage Republic.md",
-    "On the Ride Over.md",
-    "Backstory Planning.md",
     "Finnic Ashbleeder.md",
+    "Backstory Planning.md",
     "BEHOLD! FINNIC ASHBLEEDER!.md",
-    "Spellfire Sorcery - D&D 5e (2024).pdf",
+    "On the Ride Over.md",
+    "The Dawn Spectacular.md",
+    "Relationships.md",
     "How to write a backstory.md",
+    "The Mage Republic.md",
+    "Spellfire Sorcery - D&D 5e (2024).pdf",
     "Stats.md",
     "HeroForgeMini.png",
     "Welcome.md"
